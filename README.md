@@ -1,17 +1,16 @@
 # CISM-Project
 CIMS APP: Corporate Device Inventory Management System
-1. Title Slide
 •	Project Name: CIMS: Corporate Device Inventory Management System
-•	Team Members: [List of team members with roles, Abdullahi Warsame]
-•	Date: [Date]
-•	Client: Local Government [Specify the name]
+•	Team Members: Abdirahman Salah, Abdullahi Warsame
+•	Date: 8/8/2024
+•	Client: Local Government
 •	Version: 1.0
 2. Introduction
 •	Project Overview:
 The CIMS app is a specialized Corporate Device Inventory Management System tailored for county governments. It is designed to streamline the management, tracking, and accountability of devices such as computers, tablets, and other electronic equipment used by local county employees. The system automates the processes of device issuance, return, maintenance, and real-time inventory management, providing a robust solution for minimizing device loss, reducing operational inefficiencies, and ensuring secure and transparent device handling.
 3. Business Case
 •	Client Description:
-The client is the Local Government of [Specify Name], responsible for managing a large number of devices used across various departments. The county government requires an efficient and secure system to track and manage these devices, ensuring they are used responsibly and maintained properly.
+The client is the Local Government,  responsible for managing a large number of devices used across various departments. The county government requires an efficient and secure system to track and manage these devices, ensuring they are used responsibly and maintained properly.
 •	Business Problem:
 The local county government currently faces challenges in managing its device inventory due to manual processes that are time-consuming and prone to errors. Devices are often misplaced, lost, or not properly maintained, leading to increased costs, security risks, and decreased productivity. The lack of real-time inventory data also hinders the ability to make informed decisions regarding device allocation and maintenance.
 •	Current Business Process:
